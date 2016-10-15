@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "A93318D98C17DA654A5E280DEA66FEF58AAB628B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A93318D98C17DA654A5E280DEA66FEF58AAB628B" : 9223372036854775807,
+    "01154B3391589BBD7B46C3DCEF54C82C50D74B41" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "602D87D2-F5E3-453D-AAEC-3B3B2A03F8F7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A93318D98C17DA654A5E280DEA66FEF58AAB628B" : "01-task\/",
+    "01154B3391589BBD7B46C3DCEF54C82C50D74B41" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AndrewMoskowitz-precourse-app",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AndrewMoskowitz-precourse-app\/AndrewMoskowitz-precourse-app.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moskowizzle\/iOSI-precourse-onboarding.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "01154B3391589BBD7B46C3DCEF54C82C50D74B41"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/moskowizzle\/iOSI-precourse-onboarding",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A93318D98C17DA654A5E280DEA66FEF58AAB628B"
+    }
+  ]
+}
